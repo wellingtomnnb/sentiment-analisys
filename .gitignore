@@ -1,0 +1,7 @@
+dados/log_atendimentos_2022-08-08.csv
+.ipynb_checkpoints
+ml_movies.ipynb
+/py-googletrans
+*/__pycache__
+__pycache__
+dados/logs.json
