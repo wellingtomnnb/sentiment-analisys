@@ -11,7 +11,6 @@ VERSÃO 1 -  Análise de Sentimentos utilizando léxicos
 * `Training` - Arquivos de Treinamentos (Regressão, Classificação, etc)
 
 ##### External Files
-* `analise_protocolo`: obtenção do dataset diretamente no DB;
 * `sentiment`: Testes de pré classificações;
 
 #### Installations
